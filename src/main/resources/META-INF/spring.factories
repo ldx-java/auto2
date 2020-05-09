@@ -1,0 +1,2 @@
+# Auto Configure
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=com.tom.config.EnableCarconfig,com.tom.config.EnableTeacherconfig
